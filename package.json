@@ -1,0 +1,27 @@
+{
+  "name": "nodejstrail",
+  "version": "1.0.0",
+  "description": "trail project",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvsivapr/nodejsTrail.git"
+  },
+  "author": "pvspreddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvsivapr/nodejsTrail/issues"
+  },
+  "homepage": "https://github.com/pvsivapr/nodejsTrail#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
